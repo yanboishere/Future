@@ -1,4 +1,4 @@
-# long term
+# long term/长期
 ## Before 2024 Ending. / 在2024结束之前
 - [ ] 考完CET-4 或 托业
 - [ ] 考完JLPT N3或以上
