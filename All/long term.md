@@ -12,3 +12,4 @@
 - [ ] 攒够钱去一趟摩尔曼斯克看极光
 - [ ] 将自己身体的BMI指数降到20及以下
 - [ ] 获得一次省赛省奖
+- [ ] 看完 [Roadmap.sh-Frontend Developer]（https://roadmap.sh/frontend）
